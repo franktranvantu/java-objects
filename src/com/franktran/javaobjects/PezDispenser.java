@@ -5,10 +5,11 @@ package com.franktran.javaobjects;
  */
 public class PezDispenser {
 
-    private String name = "Yoda";
+    private String name;
 
-    // String.contains
-    // public boolean contains(String matchingText)
+    public PezDispenser(String name) {
+        this.name = name;
+    }
 
     public String getName() {
         return name;
