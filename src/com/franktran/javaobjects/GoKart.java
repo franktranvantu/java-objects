@@ -3,7 +3,7 @@ package com.franktran.javaobjects;
 /**
  * @author frank.tran
  */
-public class PezDispenser {
+public class GoKart {
 
-    String name = "Yoda";
+    String color = "red";
 }
