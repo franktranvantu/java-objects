@@ -5,5 +5,5 @@ package com.franktran.javaobjects;
  */
 public class GoKart {
 
-    String color = "red";
+    private String color = "red";
 }
