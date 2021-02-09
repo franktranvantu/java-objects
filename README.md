@@ -1,1 +1,1 @@
-Let's create our first method, a getter.
+Let's learn about constructors to require information at object creation time.
