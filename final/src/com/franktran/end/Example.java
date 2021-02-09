@@ -1,8 +1,5 @@
 package com.franktran.end;
 
-/**
- * @author frank.tran
- */
 public class Example {
 
     public static void main(String[] args) {
