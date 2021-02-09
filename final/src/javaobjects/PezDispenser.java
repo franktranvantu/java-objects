@@ -1,4 +1,4 @@
-package com.franktran.javaobjects;
+package javaobjects;
 
 /**
  * @author frank.tran
