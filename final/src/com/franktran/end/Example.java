@@ -7,5 +7,7 @@ public class Example {
         System.out.printf("FUN FACT: There are %d PEZ allowed in every dispenser %n", PezDispenser.MAX_PEZ);
         PezDispenser dispenser = new PezDispenser("Donatello");
         System.out.printf("The dispenser is %s", dispenser.getName());
+        System.out.println("Filling the dispenser with delicious PEZ...");
+        dispenser.fill();
     }
 }

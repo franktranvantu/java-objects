@@ -2,6 +2,7 @@ package com.franktran.start;
 
 public class PezDispenser {
 
+    public static final int MAX_PEZ = 12;
     final private String name;
 
     public PezDispenser(String name) {
