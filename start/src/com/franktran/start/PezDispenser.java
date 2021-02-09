@@ -1,4 +1,4 @@
-package com.franktran.javaobjects;
+package com.franktran.start;
 
 public class PezDispenser {
 
