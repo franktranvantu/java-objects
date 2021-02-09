@@ -1,6 +1,6 @@
 //Add a getter method that exposes the color field.
 
-package com.franktran;
+package com.franktran.end;
 
 public class GoKart {
 
