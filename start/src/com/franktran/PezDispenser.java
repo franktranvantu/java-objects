@@ -1,8 +1,5 @@
-package com.franktran.javaobjects;
+package com.franktran;
 
-/**
- * @author frank.tran
- */
 public class PezDispenser {
 
     private String name;
