@@ -1,8 +1,5 @@
-package com.franktran.javaobjects;
+package javaobjects;
 
-/**
- * @author frank.tran
- */
 public class Example {
 
     public static void main(String[] args) {
