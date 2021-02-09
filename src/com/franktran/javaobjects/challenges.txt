@@ -1,1 +1,0 @@
-Add the proper access level modifier to the color field to ensure it's privacy.
