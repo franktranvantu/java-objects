@@ -1,8 +1,7 @@
-package com.franktran.javaobjects;
+//Add a getter method that exposes the color field.
 
-/**
- * @author frank.tran
- */
+package com.franktran;
+
 public class GoKart {
 
     private String color = "red";
