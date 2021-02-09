@@ -1,4 +1,4 @@
-package com.franktran;
+package com.franktran.end;
 
 public class PezDispenser {
 
