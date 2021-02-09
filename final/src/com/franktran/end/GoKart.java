@@ -1,13 +1,15 @@
-//1. First, define a public constructor that expects a String argument named color.
-//2. Now in the body of your constructor, set the private field color to the value of
-//the color argument passed into the constructor.
-//3. Finally, since the color is being set in the constructor now, remove the initialization
-//from the field definition. Just leave it declared, but not initialized to "red".
+// Every one of these GoKarts run on rechargeable battery.
+// The battery provides a display that shows how charged it can become.
+// There are a total of 8 bars, and when all bars are lit on the display, the battery is fully charged.
+// Create a constant that stores the maximum number of energy bars that can be filled.
+// Use the proper naming structure for your new constant of "max bars".
+// Ensure that the value cannot change, and is accessible from the class level.
 
 package com.franktran.end;
 
 public class GoKart {
 
+    public static final int MAX_BARS = 8;
     private String color;
 
     public GoKart(String color) {
